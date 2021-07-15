@@ -1,0 +1,2 @@
+rootProject.name = "Task32"
+include ':app'
